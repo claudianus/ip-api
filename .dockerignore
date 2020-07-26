@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.editorconfig
+.vscode
+readme.md
+captain-definition
+.gitignore
+Dockerfile
